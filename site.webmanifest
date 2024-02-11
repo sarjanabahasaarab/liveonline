@@ -1,0 +1,23 @@
+{
+    "name": "www.liveonline.biz.id",
+    "short_name": "liveonline",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVZJysq1hk2rpJUR2pnyuG0jLirWip1oZAalmbHQivVsQirQXGzsHzTZ8d6YEou5ULp-QlAH9pbhCS9tcVGylwQ72Jmrh5UJrQNNUD29__oNuOIGki_YBnpPfVZP3Dbn1IHgH6SgqJdGFGyiEeMYXA55ZUqmobaX_PjDqvkaAk2AYwW3k14tKY8BUMg10/s192/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1w18tJDmR9vtHQbQjm3xBB4101d_A1qEXF4_yldBmUm2oYhgRpyx7tsENVsqNoyTIoMH83htuIFm8SLcZWLujO4faum9ju11hRJpEPtbpmO8cGww_eAmogZrbgWwF4wJXSO8wNCrujmHd30zk84WzdZgVzZ1Kf-q094IIsE2o0GW2yZQXb0YzdDEpfvg/s320/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#3291d1",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.liveonline.biz.id"
+}
